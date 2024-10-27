@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AssembliesLearning/Assembly1/.vs
+/AssembliesLearning/Assembly1/bin/Debug/net8.0
+/AssembliesLearning/Assembly1/obj
+/AssembliesLearning/Assembly2/.vs/Assembly2
+/AssembliesLearning/Assembly2/obj
+/AssembliesLearning/AssemblySamples/.vs
+/AssembliesLearning/modifierseplxained.png
