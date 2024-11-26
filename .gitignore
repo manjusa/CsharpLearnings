@@ -66,3 +66,7 @@ AssembliesLearning/AssemblySamples/.vs/ProjectEvaluation/assemblysamples.project
 AssembliesLearning/AssemblySamples/.vs/ProjectEvaluation/assemblysamples.strings.v9.bin
 /.vs
 /AssembliesLearning
+/img
+/OperatorOverloadingAndSortingEg/.vs
+/OperatorOverloadingAndSortingEg/bin/Debug/net8.0
+/OperatorOverloadingAndSortingEg/obj
